@@ -1,0 +1,23 @@
+{
+  "name": "jquery-fab",
+  "version": "1.0.0",
+  "description": "Material style floating action button with jQuery",
+  "main": "jquery-fab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sboily/jquery-fab.git"
+  },
+  "keywords": [
+    "jquery",
+    "fab"
+  ],
+  "author": "Jefferson Neves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sboily/jquery-fab/issues"
+  },
+  "homepage": "https://github.com/sboily/jquery-fab#readme"
+}

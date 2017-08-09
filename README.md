@@ -5,10 +5,10 @@ Material style floating action button with jQuery.
 
 ## How to use
 
-Install via bower:
+Install via npm:
 
 ```
-$ bower install jquery-fab
+$ npm install jquery-fab
 ```
 
 Create a div to wrap the FAB:
